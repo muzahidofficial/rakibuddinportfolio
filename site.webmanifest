@@ -1,0 +1,15 @@
+{
+  "name": "Kazi Rakibuddin Ahmed Executive Portfolio",
+  "short_name": "KRA Portfolio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020813",
+  "theme_color": "#020813",
+  "icons": [
+    {
+      "src": "assets/monogram.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
